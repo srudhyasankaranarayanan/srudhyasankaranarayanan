@@ -35,8 +35,10 @@
 
 ## 📚 Current Focus
 
+- 🧠 Generative AI
 - 🤖 Artificial Intelligence
 - 🧠 Large Language Models (LLMs)
+- 🔗 Retrieval Augmented Generation (RAG)
 - 🐍 Python Development
 - ☕ Java Development
 - 📊 Machine Learning
