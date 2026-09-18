@@ -52,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="www.linkedin.com/in/srudhya-sankaranarayanan-225026378">
+<a href="www.linkedin.com/in/srudhyasankaranarayanan">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
